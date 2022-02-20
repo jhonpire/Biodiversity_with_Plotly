@@ -1,3 +1,9 @@
+# Demo Biodeiversity with Plotly
+
+[Link to Deployed Dashboard](https://jhonpire.github.io/Biodiversity_with_Plotly/)
+
+
+
 # Challenge Solution Grading Instructions
 
 The objective of this challenge is for learners to add a horizontal bar chart that will display the top ten bacterial species found in a volunteer's navel, a bubble chart that will visualize the relative frequency of all the bacterial species found in the naval, and a gauge chart that will show the weekly naval washing frequency when an ID number is selected from the dropdown menu on a customized webpage.
